@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: blue;
+}
+
+.borde {
+    display: flex;
+    border: 10px;
+    border-color: black;
+}
+
+aside {
+    background-color: red;
+    width: 50%;
+    height: 500px;
+}
+
+footer {
+    background-color: orange;
+}
